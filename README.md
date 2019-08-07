@@ -6,7 +6,7 @@ For this Kaggle competition, we analyze the sales prices of homes in Ames, Iowa,
 
 Read the full blogpost <a href = https://nycdatascience.com/> here </a> 
 
-Students profiles:
+Students' profiles:
 
 <a href = https://nycdatascience.com/blog/author/sofia-zafeiri/> Sofia Zafeiri </a>
 
