@@ -4,4 +4,4 @@ Collab notebook
 There can be many factors affecting current market house prices and market fluctuations in each city, state and for each different generational cohort.
 For this Kaggle competition, we analyze the sales prices of homes in Ames, Iowa, using a provided training dataset of 1400+ homes & 79 features. 
 
-Read the full blogpost here: <a href> https://nycdatascience.com/ </a>
+Read the full blogpost <a href = https://nycdatascience.com/> here </a> 
