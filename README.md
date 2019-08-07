@@ -9,4 +9,6 @@ Read the full blogpost <a href = https://nycdatascience.com/> here </a>
 Students profiles:
 
 <a href = https://nycdatascience.com/blog/author/sofia-zafeiri/> Sofia Zafeiri </a>
+
+
 <a href = https://www.linkedin.com/in/sofiazafeiri/> LinkedIn Profile </a>
